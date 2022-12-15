@@ -18,3 +18,8 @@
 ![web](https://user-images.githubusercontent.com/73533402/207852732-a64100ee-a3a3-4690-b0db-65c4ad60cd9c.png)
 ***
 Рисунок 3 - запуск игры на web
+## Запуск игры на Linux
+Открыть любой код можно на любом онлайн компиляторе, вот например onlinegdb, открытый на linux среде
+***
+![image](https://user-images.githubusercontent.com/73533402/207872827-1bcf47ff-ffec-446d-9f0e-2e2fdd533d5f.png)
+***
