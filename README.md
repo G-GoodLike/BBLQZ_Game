@@ -1,2 +1,2 @@
 # BBLQZ_Game
-bible_quiz_game
+Игра bible quiz была написана на python
