@@ -11,3 +11,7 @@
 
 ![bible game exe png](https://user-images.githubusercontent.com/73533402/207842247-fa75ed0c-fa20-4c97-ac2e-ed5eaa5d0e2c.png)
 
+# Запуск игры на web
+Весь код был перенесен с помощью "pyscript"
+
+![web](https://user-images.githubusercontent.com/73533402/207852732-a64100ee-a3a3-4690-b0db-65c4ad60cd9c.png) Рисунок 3 - запуск игры на web
