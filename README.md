@@ -19,10 +19,11 @@
 ***
 Рисунок 3 - запуск игры на web
 ## Запуск игры на Linux
-Открыть любой код можно на любом онлайн компиляторе, вот например onlinegdb, открытый на linux среде
-***
-![image](https://user-images.githubusercontent.com/73533402/207872827-1bcf47ff-ffec-446d-9f0e-2e2fdd533d5f.png)
-***
-Так же можно открыть в командной строке, введя следующую команду python3 bible_quiz.py
-***
+ Откроем в командной строке, введя следующую команду python3 bible_quiz.py
+
 ![image](https://user-images.githubusercontent.com/73533402/207883641-86c1f2ce-0604-44f9-b4a8-8571da327340.png)
+***
+Так же можно открыть любой код о на любом онлайн компиляторе, вот например onlinegdb, открытый на linux среде
+
+![image](https://user-images.githubusercontent.com/73533402/207872827-1bcf47ff-ffec-446d-9f0e-2e2fdd533d5f.png)
+
