@@ -27,3 +27,11 @@
 
 ![image](https://user-images.githubusercontent.com/73533402/207872827-1bcf47ff-ffec-446d-9f0e-2e2fdd533d5f.png)
 
+## Место под реализацию на android
+***
+
+***
+## Место под реализацию на Unity
+***
+
+***
